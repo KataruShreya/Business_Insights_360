@@ -1,5 +1,5 @@
 # Business_Insights_360
-
+Explore the Dashboard by [clicking here](https://app.powerbi.com/view?r=eyJrIjoiNzdhNmE1MjItYWE4NC00MjM2LTljYWItNmQ2MGE0ZGExMjA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection9275feb00c2e013d8906)
 ## Problem Statement:
 AtliQ Hardwares, a leading consumer electronics company with a global footprint, is facing a critical challenge. Despite their rapid expansion across various countries, they've recently suffered significant losses in the Latin American market. The culprit? Ineffective data analytics.
 
